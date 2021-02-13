@@ -80,7 +80,12 @@ export default {
             "https://veekun.com/dex/media/pokemon/cries/" +
             response.data.id +
             ".ogg";
-        });
+        }).catch(
+          (error) => {
+
+            console.log("El error",error)
+          }
+        );
     },
     busquedaAutomatica() {
       const self = this;
