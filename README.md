@@ -1,6 +1,11 @@
 # Pokedex
 
-> Este es un proyecto contruido en  Vue. Se trata de una pequeña aplicación que busca pokemones de  forma aletoria.
+Esta es una pequeña aplicación creada en vue, 
+la cual muestra un pokemon de forma aleatoria .
+>los datos y las imágenes son servidos por https://pokeapi.co/ y 
+los sonidos por otras plataformas.
+por otra parte probablemente algunos pokemones no tenga grito.
+
 
 ![Imagen de ejemplo](./imagen1.png)
 
